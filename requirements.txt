@@ -1,6 +1,6 @@
 streamlit
+geemap
 ee
 earthengine-api
 earthengine_api
-geemap
 gcloud
