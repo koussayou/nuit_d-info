@@ -1,4 +1,4 @@
-
+ee==0.2
 earthengine-api
 earthengine_api==0.1.326
 geemap
