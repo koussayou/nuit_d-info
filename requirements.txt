@@ -1,5 +1,5 @@
-ee==0.2
+ee
 earthengine-api
-earthengine_api==0.1.326
+earthengine_api
 geemap
 gcloud
