@@ -1,3 +1,4 @@
+streamlit
 ee
 earthengine-api
 earthengine_api
